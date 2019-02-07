@@ -1,6 +1,17 @@
-# resume
+# Resume
 
-## Project setup
+This is a personal resume developed using Vue cli.
+
+## What I learned
+
+- How to divide the project in components
+- How to pass data to components using props
+- How to use pug for template
+- How to use stylus for styling
+
+## Installation
+
+### Project setup
 ```
 npm install
 ```
@@ -10,20 +21,3 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
