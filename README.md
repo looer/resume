@@ -9,6 +9,10 @@ This is a personal resume developed using Vue cli.
 - How to use pug for template
 - How to use stylus for styling
 
+## How it looks like
+
+![picture of the webpage](/src/assets/resume.png)
+
 ## Installation
 
 ### Project setup
