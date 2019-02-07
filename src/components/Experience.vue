@@ -3,8 +3,7 @@
     h2 {{position}}
     h4 {{company}}
     p {{description}}
-    small {{field}}
-    small {{date}}
+    small {{field}} | {{date}} 
     hr
 </template>
 
@@ -35,7 +34,7 @@ hr
 h3
   margin: 40px 0 0
 
-a {
-  color: #42b983;
-}
+a
+  color: #42b983
+
 </style>

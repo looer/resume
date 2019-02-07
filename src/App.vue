@@ -4,9 +4,9 @@
       #profile
         img(alt="profile pic" src="./assets/profile.jpg")
       PersonalInfo( name="Lorenzo Cella"
-                  address="Heugatterstrasse 22,\n8600 Dubendorf"
-                  phone="+41 76 2211 033"
-                  email="lorenz.cella@gmail.com")
+                  address="Dubendorf, Switzerland"
+                  phone="+41 55 6666 777"
+                  email="lorenz dot cella at gmail dot com")
     Experience( company="Autoneum Management AG" 
                 position="Software Engineer" 
                 description="Maintain an old codebase, optimizing the code and developing new features" 
