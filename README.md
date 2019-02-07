@@ -12,11 +12,13 @@ This is a personal resume developed using Vue cli.
 ## Installation
 
 ### Project setup
-```
+
+```bash
 npm install
 ```
 
 ### Compiles and hot-reloads for development
-```
+
+```bash
 npm run serve
 ```
